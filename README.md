@@ -4,7 +4,7 @@ Opentrends technical test for the Android Developer position. I took the time to
 
 **MVP flavor**: Implementation with MVP design pattern. Communication with *View* layer is done through an interface
 
-**MVVM flavor**: Implementation with MVVM design pattern using a reactive approach thanks to *RxJava*. Communication with *View* layer by is done by exposing streams/observables
+**MVVM flavor**: Implementation with MVVM design pattern using a reactive approach thanks to *RxJava*. Communication with *View* layer is done by exposing streams/observables
 
 - **Dagger2** for DI
 - **Retrofit2** for consuming Marvel API
